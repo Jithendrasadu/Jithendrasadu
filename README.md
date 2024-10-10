@@ -13,14 +13,13 @@
 
 ---
 
-## 🛠 **Technical Skills**
-- **Languages & Tools:**  
-- ![SQL](https://img.shields.io/badge/SQL-MySQL,%20PostgreSQL-informational?style=flat&logo=sqlite&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-Data%20Analysis,%20Pandas-informational?style=flat&logo=python&logoColor=white)  
-- ![R](https://img.shields.io/badge/R-Data%20Visualization,%20Shiny-informational?style=flat&logo=r&logoColor=white)  
-- ![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboards-informational?style=flat&logo=powerbi&logoColor=white)  
-- ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-informational?style=flat&logo=tableau&logoColor=white)  
-- ![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-informational?style=flat&logo=amazonaws&logoColor=white)
+## 💻 **Technologies**  
+- 🐘 ![SQL](https://img.shields.io/badge/SQL-MySQL,%20PostgreSQL-informational?style=flat&logo=sqlite&logoColor=white)  
+- 🐍 ![Python](https://img.shields.io/badge/Python-Data%20Analysis,%20Pandas-informational?style=flat&logo=python&logoColor=white)  
+- 📐 ![R](https://img.shields.io/badge/R-Data%20Visualization,%20Shiny-informational?style=flat&logo=r&logoColor=white)  
+- 📊 ![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboards-informational?style=flat&logo=powerbi&logoColor=white)  
+- 📈 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-informational?style=flat&logo=tableau&logoColor=white)  
+- ☁️ ![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-informational?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -40,7 +39,8 @@
 
 ## 🌍 **Find Me Here**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jithendra--sadu-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jithendra-sadu)  
-[![GitHub](https://img.shields.io/badge/GitHub-Jithendrasadu-black?style=flat&logo=github)](https://github.com/Jithendrasadu)
+[![GitHub](https://img.shields.io/badge/GitHub-Jithendrasadu-black?style=flat&logo=github)](https://github.com/Jithendrasadu)  
+[![Email](https://img.shields.io/badge/Email-jithendra.sadu@gmail.com-red?style=flat&logo=gmail)](mailto:jithendra.sadu@gmail.com)
 
 ---
 
