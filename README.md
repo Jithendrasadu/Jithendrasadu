@@ -30,10 +30,10 @@
 - **Outcome:** Achieved 98% accuracy (R-squared = 0.98), helping identify factors that influence home run rates.
 - **Tech:** R, Random Forests, Data Visualization.
 
-### 🛍️ **[Retail Sales Performance Analysis](https://github.com/Jithendrasadu/Retail-Anaysis)**
-- **Goal:** Identified key revenue drivers and optimized sales forecasts, boosting sales by 20%.
-- **Outcome:** Improved forecast accuracy by 35% and optimized inventory management.
-- **Tech:** R, Power BI, Linear Regression, Data Transformation.
+### ☁️ **[Word Cloud Generator](https://github.com/Jithendrasadu/Word-cloud-generator)**
+- **Goal:** Develop an interactive Shiny application to generate word clouds from user-uploaded text data or custom input.
+- **Outcome:** Users can visualize word frequency and trends, enhancing text data analysis.
+- **Tech:** R, Shiny, Data Visualization.
 
 ---
 
