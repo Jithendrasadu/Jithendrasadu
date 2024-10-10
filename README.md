@@ -26,12 +26,12 @@
 
 ## 🔬 **Project Highlights**
 
-### ⚾ **[Baseball Analytics Project](https://github.com/Jithendrasadu/Baseball_Analytics)**
+### ⚾ **[Baseball Analytics Project](https://github.com/Jithendrasadu/Baseball-Analytics)**
 - **Goal:** Predict MLB pitcher home run rates using Random Forest regression.
 - **Outcome:** Achieved 98% accuracy (R-squared = 0.98), helping identify factors that influence home run rates.
 - **Tech:** R, Random Forests, Data Visualization.
 
-### 🛍️ **[Retail Sales Performance Analysis](https://github.com/Jithendrasadu/Retail_Sales_Analysis)**
+### 🛍️ **[Retail Sales Performance Analysis](https://github.com/Jithendrasadu/Retail-Anaysis)**
 - **Goal:** Identified key revenue drivers and optimized sales forecasts, boosting sales by 20%.
 - **Outcome:** Improved forecast accuracy by 35% and optimized inventory management.
 - **Tech:** R, Power BI, Linear Regression, Data Transformation.
