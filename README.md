@@ -40,7 +40,7 @@
 ## 🌍 **Find Me Here**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jithendra--sadu-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jithendra-sadu)  
 [![GitHub](https://img.shields.io/badge/GitHub-Jithendrasadu-black?style=flat&logo=github)](https://github.com/Jithendrasadu)  
-[![Email](https://img.shields.io/badge/Email-jithendra.sadu@gmail.com-red?style=flat&logo=gmail)](mailto:jithendrasadu41@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jithendrasadu41@gmail.com-red?style=flat&logo=gmail)](mailto:jithendrasadu41@gmail.com)
 
 ---
 
