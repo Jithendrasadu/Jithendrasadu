@@ -1,47 +1,71 @@
-# 👋 Hello, I'm Jithendra Sadu!
+# 👋 Hi, I'm Jithendra Sadu!
 
-🌟 **Data Analyst | Business Intelligence | Predictive Modeling**  
-🚀 Passionate about turning data into actionable insights that drive impactful decisions. 
-
----
-
-## 🔍 **About Me**
-- 💼 Data Analyst with 4+ years of experience in data analysis, visualization, and machine learning.
-- 🎓 Master’s in Analytics from American University (2024).
-- 🔑 Expertise in SQL, Python, R, Power BI, and Tableau, with hands-on experience in building machine learning models and creating interactive dashboards.
-- 🔍 Focused on using data to solve complex business problems and drive strategic decision-making.
+🚀 **Business Intelligence Analyst | Power BI Developer | SQL | Data Warehousing**
 
 ---
 
-## 💻 **Technologies**  
-- 🐘 ![SQL](https://img.shields.io/badge/SQL-MySQL,%20PostgreSQL-informational?style=flat&logo=sqlite&logoColor=white)  
-- 🐍 ![Python](https://img.shields.io/badge/Python-Data%20Analysis,%20Pandas-informational?style=flat&logo=python&logoColor=white)  
-- 📐 ![R](https://img.shields.io/badge/R-Data%20Visualization,%20Shiny-informational?style=flat&logo=r&logoColor=white)  
-- 📊 ![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboards-informational?style=flat&logo=powerbi&logoColor=white)  
-- 📈 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-informational?style=flat&logo=tableau&logoColor=white)  
-- ☁️ ![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-informational?style=flat&logo=amazonaws&logoColor=white)
+## 🔍 About Me
+- 💼 Business Intelligence Analyst with **6+ years of experience** designing dashboards, reporting systems, and data solutions.
+- 🎓 Master’s in Analytics from **American University (2024)**.
+- 📊 Specialized in **Power BI, SQL, and data modeling**, with experience building scalable reporting architectures.
+- ☁️ Hands-on experience with **AWS (Redshift), GCP (BigQuery), and Azure Data Factory**.
+- 🔍 Passionate about transforming complex data into **clear, actionable insights** that drive business decisions.
 
 ---
 
-## 🔬 **Project Highlights**
-
-### ⚾ **[Baseball Analytics Project](https://github.com/Jithendrasadu/Baseball-Analytics)**
-- **Goal:** Predict MLB pitcher home run rates using Random Forest regression.
-- **Outcome:** Achieved 98% accuracy (R-squared = 0.98), helping identify factors that influence home run rates.
-- **Tech:** R, Random Forests, Data Visualization.
-
-### ☁️ **[Word Cloud Generator](https://github.com/Jithendrasadu/Word-cloud-generator)**
-- **Goal:** Develop an interactive Shiny application to generate word clouds from user-uploaded text data or custom input.
-- **Outcome:** Users can visualize word frequency and trends, enhancing text data analysis.
-- **Tech:** R, Shiny, Data Visualization.
+## 💡 What I Do
+- 📊 Build **interactive dashboards** and KPI reporting systems using Power BI & Tableau  
+- 🧠 Design **data models and reporting architecture** for scalable analytics  
+- ⚡ Optimize **SQL queries** for performance across large datasets (1M+ records)  
+- 🔄 Integrate data from multiple sources into **centralized data warehouses**  
+- 🚀 Automate reporting workflows using **DAX, Power Query, and ETL pipelines**  
 
 ---
 
-## 🌍 **Find Me Here**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jithendra--sadu-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jithendra-sadu)  
-[![GitHub](https://img.shields.io/badge/GitHub-Jithendrasadu-black?style=flat&logo=github)](https://github.com/Jithendrasadu)  
-[![Email](https://img.shields.io/badge/Email-jithendrasadu41@gmail.com-red?style=flat&logo=gmail)](mailto:jithendrasadu41@gmail.com)
+## 🛠️ Tech Stack
+
+**BI & Visualization**  
+- Power BI (DAX, Power Query)  
+- Tableau  
+
+**Data & Databases**  
+- SQL (Advanced Queries, Optimization)  
+- Data Modeling & Data Warehousing  
+
+**Cloud & Data Platforms**  
+- AWS (Redshift)  
+- GCP (BigQuery)  
+- Azure Data Factory  
+
+**Tools & Workflow**  
+- Excel (Advanced)  
+- SSRS  
+- JIRA, Agile (Scrum), SDLC  
 
 ---
 
-🚀 **Let’s unlock the power of data together!**
+## 🔬 Featured Projects
+
+### ⚾ [Baseball Analytics Project](https://github.com/Jithendrasadu/Baseball-Analytics)
+- Built a predictive model to analyze MLB pitcher performance using Random Forest.
+- Achieved strong predictive accuracy (R² = 0.98).
+- Focused on identifying key factors influencing home run rates.
+- **Tech:** R, Machine Learning, Data Visualization  
+
+---
+
+### ☁️ [Word Cloud Generator](https://github.com/Jithendrasadu/Word-cloud-generator)
+- Developed an interactive Shiny application for text analysis and visualization.
+- Enabled users to generate dynamic word clouds from custom input or datasets.
+- **Tech:** R, Shiny, Data Visualization  
+
+---
+
+## 🌐 Connect With Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jithendra-sadu/)
+- 💻 [GitHub](https://github.com/Jithendrasadu)
+- 📧 Jithendra.sadu@gmail.com  
+
+---
+
+🚀 *Always open to opportunities in Business Intelligence, Data Analytics, and BI Development.*
